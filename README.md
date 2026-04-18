@@ -9,9 +9,9 @@
 | Dataset ID | `825685` |
 | Location | Brownsville |
 | Category | Restaurants |
-| Full dataset size | 670 records |
-| Free sample size | 71 records (10.6%) |
-| Last export | 2026-03-31T16:55:05.273153+00:00 |
+| Full dataset size | 719 records |
+| Free sample size | 71 records (9.87%) |
+| Last export | 2026-04-14T17:48:30.963743+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-brownsville-texas-us-sample-825685/releases/download/sample-latest/beamstation_825685_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
