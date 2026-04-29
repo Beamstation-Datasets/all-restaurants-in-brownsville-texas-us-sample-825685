@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Brownsville, Texas with a population of over 186k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Brownsville, Texas, US",
-  "export_job_id": "7e9fc9f5-0a8d-4418-b187-5bb889c5ddc3",
+  "export_job_id": "d2f8f5ff-60a5-43b3-a2f7-ee209e981d34",
   "github_org": "Beamstation-Datasets",
   "id_short": 825685,
   "location_name": "Brownsville",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-brownsville-texas-us-sample-825685",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/825685/beamstation_825685_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 26,
-  "sample_sha256": "d5362220d17dc5b3d8c0f8ccf488fafb10371449d4a025ebe61e605c37c7f53d",
-  "sample_size_bytes": 109866,
-  "total_records": 261,
-  "updated_at": "2026-04-21T19:32:56.832855+00:00"
+  "sample_records": 72,
+  "sample_sha256": "b5ff3fd53a7932e3c2089b988fcb7114f51c5b20207b0068f8ebc230189572eb",
+  "sample_size_bytes": 234757,
+  "total_records": 723,
+  "updated_at": "2026-04-28T21:06:24.200267+00:00"
 }
