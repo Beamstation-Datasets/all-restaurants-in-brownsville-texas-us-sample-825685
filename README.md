@@ -1,6 +1,6 @@
 # All Restaurants in Brownsville, Texas, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 72 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `825685` |
 | Location | Brownsville |
 | Category | Restaurants |
-| Full dataset size | 261 records |
-| Free sample size | 26 records (9.96%) |
-| Last export | 2026-04-21T19:32:56.832855+00:00 |
+| Full dataset size | 723 records |
+| Free sample size | 72 records (9.96%) |
+| Last export | 2026-04-28T21:06:24.200267+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-brownsville-texas-us-sample-825685/releases/download/sample-latest/beamstation_825685_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
