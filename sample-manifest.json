@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d2f8f5ff-60a5-43b3-a2f7-ee209e981d34",
+  "export_job_id": "a094a62c-222b-4b98-bbe3-66afa214e331",
   "id_short": 825685,
-  "published_at": "2026-04-29T19:15:58Z",
+  "published_at": "2026-05-07T19:16:10Z",
   "repo_name": "all-restaurants-in-brownsville-texas-us-sample-825685",
   "sample_asset_name": "beamstation_825685_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/825685/beamstation_825685_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 72,
-  "sample_sha256": "b5ff3fd53a7932e3c2089b988fcb7114f51c5b20207b0068f8ebc230189572eb",
-  "sample_size_bytes": 234757,
-  "total_records": 723
+  "sample_records": 76,
+  "sample_sha256": "e37dd0874e01e12d64afe35872e550314abc64b100e556d061b4b2cd7545ccc6",
+  "sample_size_bytes": 273292,
+  "total_records": 763
 }
